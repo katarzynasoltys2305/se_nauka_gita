@@ -23,6 +23,10 @@ Three
 **This text will be bold**
 **This text will be bold**
 
+bla bla bla
+
+
+
 _You **can** combine them_
 
 ![Kasia](/images/logo.png)
@@ -32,3 +36,4 @@ Format: ![Alt Text](url)
 Format: ![Kasia](url)
 
 :sweat:
+_You **can** combine them_
